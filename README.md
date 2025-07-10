@@ -2,11 +2,11 @@
   <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Mayana Mohammed Fazil Khan</span></h1>
-<h3 align="center">A passionate Python Developer & AI Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Malikov Bulat</span></h1>
+<h3 align="center">A passionate Python Developer & AI Enthusiast from Russia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayanafazil&label=Profile%20views&color=0e75b6&style=flat" alt="mayanafazil" />
+  <img src="![](https://komarev.com/ghpvc/?username=malikovboo&style=plastic&color=green)" alt="Malikovboo" />
 </p>
 
 <p align="center">
