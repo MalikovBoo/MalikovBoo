@@ -24,6 +24,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://t.me/metodisto" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-FFA116?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
   <a href="https://leetcode.com/malikovboo/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
