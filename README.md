@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0e/68/97/0e689765e12eabec42740440bb992254.gif" alt="MasterHead">
+  <img src="https://images.steamusercontent.com/ugc/853848825685979066/80F37D1D2EAFACA6512CAA9F1F340FAD3733C94E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Malikov Bulat</span></h1>
