@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/0e/68/97/0e689765e12eabec42740440bb992254.gif" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Malikov Bulat</span></h1>
