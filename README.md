@@ -66,7 +66,7 @@
 ### 🏅 LeetCode Highlights
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=malikovboo&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Malikovboo?theme=dark&font=Akshar" alt="LeetCode Stats" />
 </p>
 
 #### 📚 Study Plan Badges
