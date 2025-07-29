@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/853848825685979066/80F37D1D2EAFACA6512CAA9F1F340FAD3733C94E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="MasterHead">
+  <img src="https://assets.leetcode.com/users/images/5e70a695-b63a-4b3f-9306-e4747de632f5_1701493882.5712776.jpeg" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Malikov Bulat</span></h1>
