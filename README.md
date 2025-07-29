@@ -72,6 +72,7 @@
 #### 📚 Study Plan Badges
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" height="100" />
 </p>
 
 ---
