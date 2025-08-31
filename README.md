@@ -37,9 +37,12 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" />
+  <tr> 
+    <td width="200" valign="top"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" /></td>          <td valign="top"><img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /></td>
+  </tr>
+  
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+  
   <br/>
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux" />
   <br/>
