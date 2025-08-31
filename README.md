@@ -38,7 +38,7 @@
 
 <p align="left">
   <tr> 
-    <td width="200" valign="top"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" /></td>          <td valign="top"><img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /></td>
+    <td width="50%" valign="top"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" /></td>          <td valign="top"><img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /></td>
   </tr>
   
   <br/>
