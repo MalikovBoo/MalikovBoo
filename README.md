@@ -37,16 +37,26 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js" />
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,react,bootstrap,redux,dotnet,graphql" />
-  <img src="https://skillicons.dev/icons?i=html,css" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,cassandra" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,anaconda,pytorch,tensorflow,sklearn,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell" />
-  <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,jenkins" />
-  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,sklearn,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=redis,postman,rabbitmq,grafana" />  
+  <br/>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
