@@ -37,7 +37,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,anaconda,pytorch,tensorflow,sklearn,opencv" />
   <br/>
