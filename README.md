@@ -37,23 +37,11 @@
 ### 🛠️ Skills & Tools
 
 <p align="left" column-count="2"> 
-  
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" />  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /> 
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux" />  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />          
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,kubernetes" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=selenium,jenkins" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=redis,postman,rabbitmq,grafana" />  
-  <br/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" />  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />  
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux" />  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />  
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />  <img src="https://skillicons.dev/icons?i=docker,githubactions,kubernetes" />  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell" />  
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins" />  <img src="https://skillicons.dev/icons?i=redis,postman,rabbitmq,grafana" />  
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
