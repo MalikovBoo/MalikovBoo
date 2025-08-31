@@ -36,11 +36,9 @@
 
 ### 🛠️ Skills & Tools
 
-<p align="left">
-  <tr> 
-    <td width="500" valign="top"><img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" /></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /></td>
-  </tr>
+<p align="left" column-count=2> 
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
   
   <br/>
   
