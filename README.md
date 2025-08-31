@@ -74,6 +74,9 @@
   <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" height="100" />
+  <br/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" />
 </p>
 
 ---
