@@ -38,12 +38,9 @@
 
 <p align="left" column-count="2"> 
   
-  | <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" />         <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /> |
-  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  | <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring" /> | <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" /> |
+  | ---------------------------------------------------------------------- | -------------------------------------------------------------------------|
+  | <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux" />     | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />          |
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
   <br/>
